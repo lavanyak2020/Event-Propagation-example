@@ -1,0 +1,13 @@
+.grand-parent {
+  background: rgb(0, 183, 255);
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+
+.parent {
+  background: rgb(64, 145, 199);
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
